@@ -23,6 +23,9 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
 ![Duplicate a notebook](images/duplicate_notebook.png?raw=true)
 
 - Edit the "*Predict Customer Churn - Build Model copy 1*" notebook to read the data from the flat files
+- **Tip**: make sure to inferSchema is set to 'true' when reading in the csv files, otherwise, all columns will be treated as String values.
+
+![infer schema](images/infer_schema.png?raw=true)
 
 #### 2. Build a LogisticRegression model
 - Create a duplicate of the "*Predict Customer Churn - Build Model*" notebook
