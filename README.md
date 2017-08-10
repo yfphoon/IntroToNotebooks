@@ -5,7 +5,7 @@
 - Work through the *Predict Customer Churn - Build Model* notebook
 
 ### (Optional) Access data in flat files
-- Download churn.csv and customer.csv, and add them into the *IntroToNotebooks* project
+- Download ![churn.csv](data/churn.csv?raw=true) churn.csv and customer.csv, and add them into the *IntroToNotebooks* project
 - Create a duplicate of the *Predict Customer Churn - Build Model* notebook
 - Edit the *Predict Customer Churn - Build Model copy 1* notebook to read the data from the flat files
 
