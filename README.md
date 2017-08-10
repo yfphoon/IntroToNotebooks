@@ -5,8 +5,6 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
 
-![Create Project](images/create_new_project.png?raw=true)
-
 - Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
   https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
   
@@ -14,12 +12,13 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
   
 - Work through the "*Predict Customer Churn - Build Model*" notebook
 
-#### (Optional) Access data in flat files
+### Optional Lab Exercises
+#### 1. Access data in flat files
 - Download ![churn.csv](data/churn.csv?raw=true) and ![customer.csv](data/customer.csv?raw=true), and add them into the *IntroToNotebooks* project
 - Create a duplicate of the "*Predict Customer Churn - Build Model*" notebook
 - Edit the "*Predict Customer Churn - Build Model copy 1*" notebook to read the data from the flat files
 
-#### (Optional) Build a LogisticRegression model
+#### 2. Build a LogisticRegression model
 - Create a duplicate of the "*Predict Customer Churn - Build Model*" notebook
 - Edit the "*Predict Customer Churn - Build Model copy 2*" notebook
 - In "*Step 6: Build the Spark pipeline and the Random Forest model*", edit the code to build a LogisticRegression Model
