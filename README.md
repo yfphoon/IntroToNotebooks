@@ -1,5 +1,6 @@
 ## Introduction to Notebooks for SPSS Professionals Lab
-This repository contains data and analytic assets for the Lab. The iPython Notebook is designed to run on <a href="http://datascience.ibm.com"  target="blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
+This repository contains data and analytic assets for the Lab. The iPython Notebook is designed to run on 
+<a href="http://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
 
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
