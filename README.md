@@ -7,7 +7,7 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
 - Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
   https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
   
-  ![Add a notebook](images/Create_notebook_URL.png?raw=true)
+  ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
 - Work through the "*Predict Customer Churn - Build Model*" notebook
 
