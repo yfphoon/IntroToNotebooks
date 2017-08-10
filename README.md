@@ -4,7 +4,8 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
 
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
-![Create Project](images/create_project.png?raw=true)
+
+![Create Project](images/create_new_project.png?raw=true)
 
 - Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
   https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
