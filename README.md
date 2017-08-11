@@ -11,6 +11,7 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
 - Work through the "*Predict Customer Churn - Build Model*" notebook
+- Add the *Predict Churn - Score New Data.ipynb* notebook into your *IntroToNotebooks* project and work through the notebook
 <br/>
 
 ### Optional Lab Exercises
