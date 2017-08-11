@@ -2,6 +2,8 @@
 This repository contains data and analytic assets for the Lab. The iPython Notebook is designed to run on 
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
 
+There are 2 notebooks to work through in this exercise.
+
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
 
@@ -11,7 +13,7 @@ This repository contains data and analytic assets for the Lab. The iPython Noteb
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
 - Work through the "*Predict Customer Churn - Build Model*" notebook
-- Add the *Predict Churn - Score New Data.ipynb* notebook into your *IntroToNotebooks* project and work through the notebook
+- Add the "*Predict Churn - Score New Data.ipynb*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://raw.githubusercontent.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
 <br/>
 
 ### Optional Lab Exercises
