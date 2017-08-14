@@ -13,7 +13,7 @@ There are 2 notebooks to work through in this exercise.
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
 - Work through the "*Predict Customer Churn - Build Model*" notebook
-- Add the "*Predict Churn - Score New Data.ipynb*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://raw.githubusercontent.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
+- Add the "*Predict Churn - Score New Data.ipynb*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
 <br/>
 
 ### Optional Lab Exercises
