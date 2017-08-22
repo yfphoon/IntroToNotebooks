@@ -1,5 +1,5 @@
-## Introduction to Notebooks for SPSS Professionals Lab
-This repository contains data and analytic assets for the Lab. The iPython Notebook is designed to run on 
+## Introduction to Jupyter Notebooks Lab
+This repository contains data and analytic assets for the Lab. The Jupyter Notebook is designed to run on 
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
 
 There are 2 notebooks to work through in this exercise.
